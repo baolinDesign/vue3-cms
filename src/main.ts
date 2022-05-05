@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
+import hyRequest from './service'
 
 // 全局引用
 // import ElementPlus from 'element-plus'
